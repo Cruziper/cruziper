@@ -1,5 +1,7 @@
-### Hi there ![gif](https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif)
+### Hi <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" height="25px"> I'm Gonçalo!
 
+![Age](https://img.shields.io/badge/Age-25-blue)
+![location](https://img.shields.io/badge/Live%20in-Lisbon-red)
 
 <!--
 **Cruziper/cruziper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
