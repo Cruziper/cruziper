@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![image](https://user-images.githubusercontent.com/17731177/157499910-0bb39b5c-62b3-4759-b233-21cff334c1aa.png)
+
 
 <!--
 **Cruziper/cruziper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
