@@ -3,7 +3,7 @@
 ![Age](https://img.shields.io/badge/Age-25-blue)
 ![location](https://img.shields.io/badge/Live%20in-Lisbon-red)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cruziper&show_icons=true&theme=tokionight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cruziper&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cruziper&langs_count=8)](https://github.com/cruziper/github-readme-stats)
 
