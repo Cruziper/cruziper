@@ -3,7 +3,9 @@
 ![Age](https://img.shields.io/badge/Age-25-blue)
 ![location](https://img.shields.io/badge/Live%20in-Lisbon-red)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cruziper&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cruziper&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cruziper&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Cruziper/cruziper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
