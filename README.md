@@ -1,6 +1,6 @@
 ### Hi <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" height="25px"> I'm Gonçalo!
 
-![Age](https://img.shields.io/badge/Age-27-blue)
+![Age](https://img.shields.io/badge/Age-28-blue)
 ![location](https://img.shields.io/badge/Live%20in-Lisbon-red)
 
 <!--
